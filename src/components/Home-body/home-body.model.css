@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@font-face {
+    font-family: 'MergeOne-Regular';
+    src: url('../../assets/fonts/MergeOne-Regular.ttf');
+}
+
+.intro-text {
+    font-family: "Varela Round", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.intro-section {
+    font-family: "MergeOne-Regular";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+}

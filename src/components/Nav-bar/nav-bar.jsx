@@ -17,11 +17,11 @@ function Nav_bar() {
                     </div>
                     <div className="social-div w-1/2 h-1/2 flex justify-end items-center">
                         <ul className="social-list flex space-x-2 p-3">
-                            <li className="cursor-pointer">Linkedin </li>
+                            <li className="cursor-pointer select-none">Linkedin </li>
                             <li>/</li>
-                            <li className="cursor-pointer">Github</li>
+                            <li className="cursor-pointer select-none">Github</li>
                             <li>/</li>
-                            <li className="cursor-pointer">Whatsapp</li>
+                            <li className="cursor-pointer select-none">Whatsapp</li>
                         </ul>
                     </div>
                 </div>
